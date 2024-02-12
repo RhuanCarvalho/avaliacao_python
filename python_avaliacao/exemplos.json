@@ -1,0 +1,64 @@
+{
+    "companies": [
+        {
+            "cnpj": "12345678000190",
+            "razao_social": "Empresa A S/A",
+            "nome_fantasia": "A Corp",
+            "cnae": "62015"
+        },
+        {
+            "cnpj": "98765432000121",
+            "razao_social": "Empresa B LTDA",
+            "nome_fantasia": "B Ltda",
+            "cnae": "73190"
+        },
+        {
+            "cnpj": "55444333000166",
+            "razao_social": "Empresa C ME",
+            "nome_fantasia": "C Comércio",
+            "cnae": "47899"
+        },
+        {
+            "cnpj": "36987124000112",
+            "razao_social": "Empresa D Indústria",
+            "nome_fantasia": "D Industrial",
+            "cnae": "25996"
+        },
+        {
+            "cnpj": "20587641000109",
+            "razao_social": "Empresa E Consultoria",
+            "nome_fantasia": "E Consult",
+            "cnae": "70204"
+        },
+        {
+            "cnpj": "45231789000134",
+            "razao_social": "Empresa F Construções",
+            "nome_fantasia": "F Construções",
+            "cnae": "41204"
+        },
+        {
+            "cnpj": "33999777000156",
+            "razao_social": "Empresa G Serviços",
+            "nome_fantasia": "G Services",
+            "cnae": "96092"
+        },
+        {
+            "cnpj": "77888555000122",
+            "razao_social": "Empresa H Saúde",
+            "nome_fantasia": "H Saúde",
+            "cnae": "86201"
+        },
+        {
+            "cnpj": "44876543000176",
+            "razao_social": "Empresa I Tecnologia",
+            "nome_fantasia": "I Tech",
+            "cnae": "62091"
+        },
+        {
+            "cnpj": "65432109000145",
+            "razao_social": "Empresa J Alimentação",
+            "nome_fantasia": "J Alimentos",
+            "cnae": "10817"
+        }
+    ]
+}
